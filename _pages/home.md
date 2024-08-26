@@ -4,7 +4,7 @@ permalink: /
 [//]: # "header:"
 [//]: # "image: /assets/images/WebsiteHeader.png"
 ---
-
+# About me
 I am currently completing my final semester of the doctoral program in biomedical engineering at UT Austin. I received my B.S from UT San Antonio in biomedical engineering in 2020, and my M.S in 2022 from UT Austin. My curriculum over this time has focused on medical imaging, computational methods, and computer science, which led me into research in computational oncology for my dissertation.
 Before starting my PhD I worked in a biophotonics lab for 2 years, developing experimental protocols for the optimization of small molecule detection with a photonic crystal biosensor. I am no longer a wet-lab scientist, but from this experience gained valuable insight into the kind of researcher I wanted to be.
 
