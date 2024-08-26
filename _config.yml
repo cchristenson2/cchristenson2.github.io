@@ -61,7 +61,7 @@ author:
   bio    : "PhD candidate at the University of Texas at Austin. Excited about modeling data to improve healthcare."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-o"
+      icon: "fa fa-fw fa-envelope-o"
       url: "mailto:chasedchristenson@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
