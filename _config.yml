@@ -61,13 +61,15 @@ author:
     - label: "Email"
       icon: "fa fa-fw fa-link"
       url: "mailto:chasedchristenson@gmail.com"
+    - label: "Scholar"
+      icon: "fa fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=16KqiFUAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cchristenson2"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chasechristenson/"
-    - label: "Email"
 
 footer:
   links:
