@@ -1,8 +1,6 @@
 ---
 layout: single
 permalink: /
-[//]: # "header:"
-[//]: # "image: /assets/images/WebsiteHeader.png"
 ---
 ## About me
 I am currently completing my final semester of the doctoral program in biomedical engineering at UT Austin. I received my B.S from UT San Antonio in biomedical engineering in 2020, and my M.S in 2022 from UT Austin. My curriculum over this time has focused on medical imaging, computational methods, and computer science, which led me into research in computational oncology for my dissertation.
