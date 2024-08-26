@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chase Christenson's Website
-email:
+email: chasedchristenson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio for Chase Christenson, data science researcher in healthcare
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: dark
 search: false
 
