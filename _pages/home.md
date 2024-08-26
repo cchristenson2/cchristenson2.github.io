@@ -1,8 +1,6 @@
 ---
 layout: single
 permalink: /
-header:
-  image: /assets/images/WebsiteHeader.png
-  
-  
+[//]: # "header:"
+[//]: # "image: /assets/images/WebsiteHeader.png"
 ---
