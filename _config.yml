@@ -60,15 +60,16 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD candidate at the University of Texas at Austin. Excited about modeling data to improve healthcare."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://cchristenson2.github.io/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-open-o"
+      url: "mailto:chasedchristenson@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cchristenson2"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chasechristenson/"
+    - label: "Email"
 
 footer:
   links:
