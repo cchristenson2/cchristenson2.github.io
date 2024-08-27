@@ -6,6 +6,7 @@ sidebar:
       text: "Dissertation project"
     - title: "Responsibilities"
       text: "Lead researcher, data processing, methodology, analysis, writing"
+order: 2
 ---
 ![image](/assets/images/ROM_overview.png)
 
