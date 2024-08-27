@@ -4,10 +4,10 @@ excerpt: "Model development and validation for predicting response in glioblasto
 header:
   teaser: assets/images/RNL_overview.png
 sidebar:
-  -title: "Role"
-   text: "Researcher"
-  -title: "Responsibilities"
-   text: "Did stuff"
+  title: "Role"
+  text: "Researcher"
+  title: "Responsibilities"
+  text: "Did stuff"
 ---
 ![image](assets/images/RNL_overview.png)
 
