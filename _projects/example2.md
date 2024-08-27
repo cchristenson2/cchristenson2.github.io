@@ -8,7 +8,6 @@ sidebar:
     text: "Researcher"
   - title: "Responsibilities"
     text: "Did something"
-gallery:
 
 ---
 This is a project
