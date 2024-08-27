@@ -1,15 +1,15 @@
 ---
 title: "Radionuclide response model in GBM"
-excerpt: "this project"
+excerpt: "Model development and validation for predicting response in glioblastoma patients to rhenium based nanoparticles"
 header:
-  image: assets/images/RNL_overview.png
   teaser: assets/images/RNL_overview.png
 sidebar:
-  title: "Role"
-  text: "Researcher"
-  title: "Responsibilities"
-  text: "Did stuff"
+  -title: "Role"
+   text: "Researcher"
+  -title: "Responsibilities"
+   text: "Did stuff"
 ---
+![image](assets/images/RNL_overview.png)
 
 This is a project
 
