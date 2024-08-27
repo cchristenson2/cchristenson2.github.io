@@ -1,13 +1,11 @@
 ---
 title: "Radionuclide response model in GBM"
-excerpt: "Model development and validation for predicting response in glioblastoma patients to rhenium based nanoparticles"
-header:
-  teaser: assets/images/RNL_overview.png
+excerpt: "Model development and validation for predicting response of glioblastoma patients to rhenium based nanoparticles"
 sidebar:
-  title: "Role"
-  text: "Researcher"
-  title: "Responsibilities"
-  text: "Did stuff"
+    - title: "Role"
+      text: "Researcher"
+    - title: "Responsibilities"
+      text: "Did stuff"
 ---
 ![image](/assets/images/RNL_overview.png)
 
