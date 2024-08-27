@@ -5,10 +5,12 @@ sidebar:
     - title: "Role"
       text: "Researcher"
     - title: "Responsibilities"
-      text: "Did stuff"
+      text: "Lead, conceptualization, data processing, methodology, analysis, writing"
 ---
 ![image](/assets/images/RNL_overview.png)
 
 This is a project
 
 Project details here
+
+Check out the [GitHub!](https://github.com/cchristenson2)
