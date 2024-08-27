@@ -12,6 +12,6 @@ This project served as an introduction to surrogate models using convolutional n
 
 The encoder takes 2D feature map inputs describing the initial condition, growth parameters, time for simulation and doses from radiation. The decoder takes the latent vector and outputs the simulation at the time described by the input. The inputs for training and testing were rather simple, consisting of only radial growth, but was very successful with a small number of samples required.
 
-![image](/assets/images/ML_results.png){width=100 height=80}
+![image](/assets/images/ML_results.png){: width="50%"}
 
 This work played a large part in my interest in computational reductions, and led me into the dimensionality reduction found [here.](https://cchristenson2.github.io/projects/ROMproject/)
