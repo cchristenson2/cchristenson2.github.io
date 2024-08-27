@@ -4,6 +4,4 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Resume"
-    url: /resume/
-  - title: "Resume-Test"
     url: /assets/files/CC_resume.pdf
