@@ -2,7 +2,7 @@
 title: "Example project 2"
 excerpt: "Proeject that does something
 header:
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/RNL_overview.png
 sidebar:
   - title: "Role"
     text: "Researcher"
