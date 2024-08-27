@@ -2,7 +2,7 @@
 title: "Dimensionality reduction for tumor PDE"
 excerpt: "Reduced order modeling framework for PDE simulations of tumor growth and response to chemotherapy"
 sidebar:
-    - title: "Role"
+    - title: "Type"
       text: "Dissertation project"
     - title: "Responsibilities"
       text: "Lead researcher, data processing, methodology, analysis, writing"
