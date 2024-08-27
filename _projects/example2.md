@@ -9,7 +9,7 @@ sidebar:
   title: "Responsibilities"
   text: "Did stuff"
 ---
-![image](assets/images/RNL_overview.png)
+![image](/assets/images/RNL_overview.png)
 
 This is a project
 
