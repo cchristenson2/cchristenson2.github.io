@@ -16,12 +16,12 @@ My broad research interests involve building predictive models for cancer patien
 I'm currently looking for employment following the successful defense of my dissertation in November 2024. I am primarily looking for a role in biotech/healthcare with an emphasis on the ability to make an imact on clinical outcomes. Please check out my projects or resume for more details about my past experience.
 
 ## Past experiences
-2017 - 2020: UT San Antonio, B.S Biomedical engineering
-2020 - 2022: UT Austin, M.S Biomedical engineering
+2017 - 2020: UT San Antonio, B.S Biomedical engineering<br />
+2020 - 2022: UT Austin, M.S Biomedical engineering<br />
 2020 - Present: UT Austin, Ph.D. Biomedical engineering
 
-2018 - 2020: Undergraduate researcher, Advanced Biophotonics & Nanomaterials Laboratory
-2020 - Present: Graduate researcher, Center for Computational Oncology
+2018 - 2020: Undergraduate researcher, Advanced Biophotonics & Nanomaterials Laboratory<br />
+2020 - Present: Graduate researcher, Center for Computational Oncology<br />
 
 {% include figure popup=true image_path="/assets/images/Crosby.jpg" alt="Crosby the poodle" caption="Crosby the poodle." %}
 
