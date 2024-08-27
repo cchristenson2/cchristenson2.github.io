@@ -6,6 +6,7 @@ sidebar:
       text: "Dissertation project"
     - title: "Responsibilities"
       text: "Lead researcher, conceptualization, data processing, methodology, analysis, writing"
+order: 1
 ---
 ![image](/assets/images/RNL_overview.png)
 
