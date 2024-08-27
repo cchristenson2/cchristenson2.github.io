@@ -7,3 +7,5 @@ collection: projects
 classes: wide
 ---
 {% for c in site.projects | sort: 'order' %}
+
+
