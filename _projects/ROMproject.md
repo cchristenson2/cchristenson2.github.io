@@ -1,5 +1,5 @@
 ---
-title: "Dimensionality reduction for tumor PDE"
+title: "Dimensionality reduction for tumor PDEs"
 excerpt: "Reduced order modeling framework for PDE simulations of tumor growth and response to chemotherapy"
 sidebar:
     - title: "Type"
