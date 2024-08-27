@@ -2,7 +2,7 @@
 title: "U-net for solving PDEs"
 excerpt: "Neural network based surrogate model for reaction diffusion equations"
 sidebar:
-    - title: "Role"
+    - title: "Type"
       text: "Class project"
 order: 20
 ---
