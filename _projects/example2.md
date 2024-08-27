@@ -1,14 +1,14 @@
 ---
-title: "Example project 2"
-excerpt: "Proeject that does something
+title: "Radionuclide response model in GBM"
+excerpt: "this project"
 header:
   image: assets/images/RNL_overview.png
   teaser: assets/images/RNL_overview.png
 sidebar:
-  - title: "Role"
-    text: "Researcher"
-  - title: "Responsibilities"
-    text: "Did something"
+  title: "Role"
+  text: "Researcher"
+  title: "Responsibilities"
+  text: "Did stuff"
 ---
 
 This is a project
