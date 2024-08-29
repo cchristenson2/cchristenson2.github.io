@@ -10,10 +10,10 @@ Before starting my PhD I worked in a biophotonics lab for 2 years, developing ex
 When I'm not doing research I like to go outdoors, hang out with my dog, read, watch sports, or paint.
 
 ## Research interests
-My broad research interests involve building predictive models for cancer patients that can be used to inform clinical decision making, whether through early identification of response, or feedback on patient treatment regimens. With clinical applications in mind, my recent focus has been on dimensionality reduction and uncertainty quantification of numerical simulations for these patients. I am always looking for new methods to identify patterns in data that can be leveraged to improve our decision making frameworks.
+My broad research interests involve building predictive models for cancer patients that can be used to inform clinical decision making, whether through early identification of response, or feedback on patient treatment regimens. With clinical applications in mind, my recent focus has been on dimensionality reduction and uncertainty quantification of numerical simulations for these patients. This research is built on trends within a patient's medical imaging dataset, and I am particulary interested in broadening my skills in the area of automated detection and risk assessment based on images. I am always looking for new methods to identify patterns in data that can be leveraged to improve medical decision making frameworks.
 
 ## What's next?
-I'm currently looking for employment following the successful defense of my dissertation in November 2024. I am primarily looking for a role in biotech/healthcare with an emphasis on the ability to make an imact on clinical outcomes. Please check out my projects or resume for more details about my past experience.
+I'm currently looking for employment following the successful defense of my dissertation in November 2024. I am primarily looking for a role in biotech/healthcare with an emphasis on the clinical impact the role can deliver. Please check out my projects or resume for more details about my past experience.
 
 ## Past experiences
 2017 - 2020: UT San Antonio, B.S Biomedical engineering<br />
@@ -22,6 +22,4 @@ I'm currently looking for employment following the successful defense of my diss
 
 2018 - 2020: Undergraduate researcher, Advanced Biophotonics & Nanomaterials Laboratory<br />
 2020 - Present: Graduate researcher, Center for Computational Oncology<br />
-
-{% include figure popup=true image_path="/assets/images/Crosby.jpg" alt="Crosby the poodle" caption="Crosby the poodle." %}
 
