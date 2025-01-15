@@ -23,3 +23,5 @@ I am currently working with Dr. Amir Arzani at the University of Utah to build m
 2018 - 2020: Undergraduate researcher, Advanced Biophotonics & Nanomaterials Laboratory<br />
 2020 - 2024: Graduate researcher, Center for Computational Oncology<br />
 2025 - Present: Postdoctoral research associate, Scientific Computing and Imaging Institute<br />
+
+{% include figure popup=true image_path="/assets/images/Crosby.jpg" alt="Crosby the poodle" caption="Crosby the poodle." %}
