@@ -1,6 +1,6 @@
 ---
 title: Gallery
 layout: single
-permalink: /Gallery/
+permalink: /gallery/
 ---
 Under construction...
