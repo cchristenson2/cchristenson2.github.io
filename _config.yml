@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chase Christenson's Website
-email: chasedchristenson@gmail.com
+email: chase.christenson@sci.utah.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio for Chase Christenson, data science researcher in healthcare
 minimal_mistakes_skin: dark
@@ -54,13 +54,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chase Christenson"
+  name   : "Chase Christenson, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate at the University of Texas at Austin. Excited about the development and application of computational methods for improving healthcare."
+  bio    : "Postdoctoral researcher at the Scientific Computing and Imaging Institute. "
   links:
     - label: "Email"
       icon: "fa fa-fw fa-link"
-      url: "mailto:chasedchristenson@gmail.com"
+      url: "mailto:chase.christenson@sci.utah.edu"
     - label: "Scholar"
       icon: "fa fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=16KqiFUAAAAJ&hl=en"
