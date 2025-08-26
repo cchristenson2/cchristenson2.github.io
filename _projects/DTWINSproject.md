@@ -8,7 +8,7 @@ sidebar:
       text: "Lead researcher, conceptualization, data processing, methodology, analysis, writing"
 order: 4
 ---
-![image](/assets/images/DTWINS_overview.png)
+![image](/assets/images/Digitaltwins_overview.png)
 
 This project combined previous work in predictive modeling for TNBC using reduced order models, to make decisions about optimal treatment regimens under assumptions of uncertainty. 
 We provid a framework for constructing a digital twin of a patient directly from imaging data with an underlying mathematical model calibrated with an approximate Bayesian method. 
