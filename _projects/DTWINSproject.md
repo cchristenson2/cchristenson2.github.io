@@ -6,7 +6,7 @@ sidebar:
       text: "Dissertation project"
     - title: "Responsibilities"
       text: "Lead researcher, conceptualization, data processing, methodology, analysis, writing"
-order: 4
+order: 3
 ---
 ![image](/assets/images/DigitalTwins_overview.png)
 
