@@ -16,12 +16,12 @@ My broad research interests involve building predictive models for cancer patien
 I am currently working with Dr. Amir Arzani at the University of Utah to build multiscale models of tumor growth and response, specifically targeting melanoma. We aim to merge systems biology work in inter/intra-cellular signaling with numerical models of tumor growth to define the mechanisms of growth and response of individual tumors. These models will be used in computational platforms for running in-silico clinical trials and personalizing medicine through digital twins.
 
 ## Past experiences
-2017 - 2020: UT San Antonio, B.S Biomedical engineering<br />
-2020 - 2022: UT Austin, M.S Biomedical engineering<br />
-2020 - 2024: UT Austin, Ph.D. Biomedical engineering
+2017 - 2020: UT San Antonio, B.S in Biomedical engineering, Minor in Computer Science<br />
+2020 - 2022: UT Austin, M.S in Biomedical engineering<br />
+2020 - 2024: UT Austin, Ph.D. in Biomedical engineering
 
-2018 - 2020: Undergraduate researcher, Advanced Biophotonics & Nanomaterials Laboratory<br />
-2020 - 2024: Graduate researcher, Center for Computational Oncology<br />
-2025 - Present: Postdoctoral research associate, Scientific Computing and Imaging Institute<br />
+2018 - 2020: Undergraduate researcher, Advanced Biophotonics & Nanomaterials Laboratory, University of Texas at San Antonio<br />
+2020 - 2024: Graduate researcher, Center for Computational Oncology, University of Texas at Austin<br />
+2025 - Present: Postdoctoral research associate, Scientific Computing and Imaging Institute, University of Utah<br />
 
 {% include figure popup=true image_path="/assets/images/Crosby.jpg" alt="Crosby the poodle" caption="Crosby the poodle." %}
